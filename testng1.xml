@@ -1,0 +1,8 @@
+
+<suite name="Suite1">
+  <test thread-count="5" name="Test_1">
+    <classes>
+      <class name="TestNg.Test1"/>
+    </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite_2">
+  <test thread-count="5" name="SecondTest">
+    <classes>
+      <class name="TestNg.Test2"/>
+    </classes>
+  </test> <!-- SecondTest -->
+</suite> <!-- Suite_2 -->
